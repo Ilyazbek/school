@@ -33,7 +33,7 @@
         <tbody>
         <div class="d-flex justify-content-center" style="display: flex">
             <?php
-            $imgs = array('https://fikiwiki.com/uploads/posts/2022-02/1644918620_17-fikiwiki-com-p-krasivie-kartinki-visokogo-razresheniya-19.jpg', 'https://w-dog.ru/wallpapers/9/13/535270747480065/gora-moran-snejk-river-grand-teton-nacionalnyj-park-vajoming-reka-snejk-grand-titon.jpg', 'https://wp-s.ru/wallpapers/6/3/293552362458985/bengalskie-tigry-lezhat-na-trave.jpg');
+            $imgs = array('https://fikiwiki.com/uploads/posts/2022-02/1645061937_1-fikiwiki-com-p-kartinki-zhabi-2.jpg', 'https://fikiwiki.com/uploads/posts/2022-02/1645061864_2-fikiwiki-com-p-kartinki-zhabi-3.jpg', 'https://fikiwiki.com/uploads/posts/2022-02/1645061917_3-fikiwiki-com-p-kartinki-zhabi-4.jpg');
             for ($i = 0; $i < 3; $i++){
                 echo "<div class=\"card\" style=\"width: 18rem;\">
                     <img src=\"$imgs[$i]\" class=\"card-img-top\" alt=\"...\">
